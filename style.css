@@ -38,7 +38,7 @@ header {
   border-radius: 50%;
   background-color: skyblue;
   margin: 0 auto 1rem auto;
-  background-image: url('C:\Users\avril\Desktop\html site'); /* Optional profile photo */
+  background-image: url('C:\Users\avril\Desktop\html site\E3K8.gif'); /* Optional profile photo */
   background-size: cover;
   background-position: center;
 }
@@ -95,5 +95,6 @@ footer {
   margin-top: 2rem;
   color: skyblue;
 }
+
 
 
